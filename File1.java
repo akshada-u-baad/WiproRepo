@@ -4,8 +4,11 @@ public class File1
 
 {
 
-public static void main(String[] args){ System.out.println("First Java1");
-                                       System.out.println("My Second Line code");
+public static void main(String[] args){
+                                       
+  int a =10;
+   System.out.println("First Java1");
+   System.out.println("My Second Line code");
                                       }
 
 }
